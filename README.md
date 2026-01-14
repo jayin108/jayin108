@@ -50,7 +50,7 @@ I focus on developing in-house applications that enhance performance, compliance
 ---
 
 ### 📫 Connect with Me  
-💼 [LinkedIn](https://www.linkedin.com/in/yogesh-jaykar-680612202)  
+💼 [LinkedIn](https://www.linkedin.com/in/yogesh-jaykar)  
 
 💻 [GitHub](https://github.com/jayin108) 
 
