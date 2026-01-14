@@ -51,8 +51,9 @@ I focus on developing in-house applications that enhance performance, compliance
 
 ### 📫 Connect with Me  
 💼 [LinkedIn](https://www.linkedin.com/in/yogesh-jaykar-680612202)  
-💻 [GitHub](https://github.com/jayin108)  
-🐦 [Twitter / X](https://x.com/topiwala47)  
+💻 [GitHub](https://github.com/jayin108) 
+🏆 [LeetCode](https://leetcode.com/u/topiwala47/)
+🐦 [Twitter / X](https://x.com/topiwala47) 
 📧 **iyogeshjaykar@zohomail.in**
 
 ---
