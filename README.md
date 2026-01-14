@@ -4,6 +4,7 @@
 I’m passionate about building smart, efficient, and data-driven digital solutions.  
 With 4 years of experience in **software development, automation, and digital transformation**,  
 I focus on developing in-house applications that enhance performance, compliance, and user experience.
+📂 Explore my full professional portfolio → [yogeshjaykar.notion.site/Portfolio](https://hail-notebook-c67.notion.site/Yogesh-Anant-Jaykar-Portfolio-2e8367bdf9ed80b69cfcd98df3fe1682?pvs=74)
 
 ---
 
